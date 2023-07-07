@@ -3,7 +3,7 @@ Analytics Portfolio
 
 # [Project 1: Spotify Data Machine Learning predictions](https://reecealbert.github.io/Reece_portfolio/)
 
-This is a project that I did for my predictive modeling class in my master's program
+# This is a project that I did for my predictive modeling class in my master's program
 
 * We were tasked with finding a dataset with more than 20,000 rows
 * The task I wanted to solve was understanding the energy of a given song
