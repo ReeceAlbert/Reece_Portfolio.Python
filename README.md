@@ -28,6 +28,6 @@ Question asked about the data after exploration
 * Which gender gives the most tips?
 * Are more smokers geared towrds more tips, on what day?
 
-The data analysis for this project[Tips Analysis](https://github.com/ReeceAlbert/Reece_portfolio/blob/main/tips%20analysis.ipynb)
+The data analysis for this project [Tips Analysis](https://github.com/ReeceAlbert/Reece_portfolio/blob/main/tips%20analysis.ipynb)
 
 
