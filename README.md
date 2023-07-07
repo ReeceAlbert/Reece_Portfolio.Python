@@ -27,3 +27,5 @@ Question asked about the data after exploration
 * Which time promotes the biggest party sizes?
 * Which gender gives the most tips?
 * Are more smokers geared towrds more tips, on what day?
+
+
