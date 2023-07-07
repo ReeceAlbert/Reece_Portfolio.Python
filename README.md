@@ -13,3 +13,17 @@ This is a project that I did for my predictive modeling class in my master's pro
 * This project was concluded on Monday April 17th 2023
 
 [Spotify Machine Learning Project](https://www.kaggle.com/code/reecealbert23/spotify-dataset-analysis/edit/run/129348865)
+
+# [Project 2: Tips Data Exploration](https://reecealbert.github.io/Reece_portfolio/)
+
+This is a personal project. This project was used to help with my understanding of data exploration and analysis.
+I wanted to see if I can explore the data and ask questions about it.
+
+* The data was taken from kaggle [Tips Data](https://www.kaggle.com/datasets/jsphyg/tipping)
+* The data had 244 rows and 7 columns
+Questions I asked after my exploration
+1 What day provides the highest tips, lowest tips?
+2 Which time promotes the biggest party sizes?
+3 Which gender gives the most tips?
+4 Are more smokers geared towrds more tips, on what day?
+* This was of my first analysis project
