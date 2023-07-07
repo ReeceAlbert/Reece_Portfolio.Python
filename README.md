@@ -21,9 +21,9 @@ I wanted to see if I can explore the data and ask questions about it.
 
 * The data was taken from kaggle [Tips Data](https://www.kaggle.com/datasets/jsphyg/tipping)
 * The data had 244 rows and 7 columns
-Questions I asked after my exploration
-1 What day provides the highest tips, lowest tips?
-2 Which time promotes the biggest party sizes?
-3 Which gender gives the most tips?
-4 Are more smokers geared towrds more tips, on what day?
-* This was of my first analysis project
+Questions I asked after my exploration:
+* What day provides the highest tips, lowest tips?
+* Which time promotes the biggest party sizes?
+* Which gender gives the most tips?
+* Are more smokers geared towrds more tips, on what day?
+[This was of my first analysis project on my own]
