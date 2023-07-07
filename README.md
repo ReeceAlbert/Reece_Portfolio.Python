@@ -26,4 +26,4 @@ I wanted to see if I can explore the data and ask questions about it.
 * Which time promotes the biggest party sizes?
 * Which gender gives the most tips?
 * Are more smokers geared towrds more tips, on what day?
-[This was of my first analysis project on my own]
+* [This was of my first analysis project on my own]
