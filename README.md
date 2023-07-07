@@ -12,4 +12,4 @@ This is a project that I did for my predictive modeling class in my master's pro
 * Algorthims used: LinearRegression, DecisionTreeRegressor,Lasso,Ridge,RandomForestRegressor,KNeighborsRegressor,GradientBoostingRegressor,MLPRegressor
 * This project was concluded on Monday April 17th 2023
 
-  [https://www.kaggle.com/code/reecealbert23/spotify-dataset-analysis/edit/run/129348865]
+Here is the link to my project: https://www.kaggle.com/code/reecealbert23/spotify-dataset-analysis/edit/run/129348865
