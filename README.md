@@ -12,4 +12,3 @@ This is a project that I did for my predictive modeling class in my master's pro
 * Algorthims used: LinearRegression, DecisionTreeRegressor,Lasso,Ridge,RandomForestRegressor,KNeighborsRegressor,GradientBoostingRegressor,MLPRegressor
 * This project was concluded on Monday April 17th 2023
 
-
