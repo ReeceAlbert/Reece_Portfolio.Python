@@ -38,6 +38,6 @@ I tried to use some the tools I learned in my predictive modeling class and rese
 I used different machine learning to classify certain classed inside the sales data.
 The project has not concluded and is still being worked on.
 
-The data analysis for this project
+The data analysis for this project [Sales Analysis](https://github.com/ReeceAlbert/Reece_portfolio/blob/main/Sales.ipynb)
 
 
