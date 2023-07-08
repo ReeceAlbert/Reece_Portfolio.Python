@@ -28,6 +28,16 @@ Question asked about the data after exploration
 * Which gender gives the most tips?
 * Are more smokers geared towrds more tips, on what day?
 
+
 The data analysis for this project [Tips Analysis](https://github.com/ReeceAlbert/Reece_portfolio/blob/main/tips%20analysis.ipynb)
+
+# [Project 3: Sales Data EDA and Classification](https://reecealbert.github.io/Reece_portfolio)
+
+This was a personal project. This project was geared towards understand sales data and find insighful items it in.
+I tried to use some the tools I learned in my predictive modeling class and research I did online. 
+I used different machine learning to classify certain classed inside the sales data.
+The project has not concluded and is still being worked on.
+
+The data analysis for this project
 
 
