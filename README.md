@@ -51,4 +51,5 @@ Questions
 4. Which columns has the highest corrlation?
 5. What carats offers the best value?
 
+The data analysis for this project [Diamond Analysis](https://github.com/ReeceAlbert/Reece_Portfolio.Python/blob/main/Diamond%20Price%20Analysis%20.ipynb)
 
