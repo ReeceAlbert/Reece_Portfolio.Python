@@ -36,7 +36,6 @@ The data analysis for this project [Tips Analysis](https://github.com/ReeceAlber
 This was a personal project. This project was geared towards understand sales data and find insighful items it in.
 I tried to use some the tools I learned in my predictive modeling class and research I did online. 
 I used different machine learning to classify certain classed inside the sales data.
-The project has not concluded and is still being worked on.
 
 The data analysis for this project [Sales Analysis](https://github.com/ReeceAlbert/Reece_portfolio/blob/main/Sales.ipynb)
 
