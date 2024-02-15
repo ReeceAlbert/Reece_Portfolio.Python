@@ -46,8 +46,8 @@ Below are the simple questions I asked of the dataset:
 Questions
 1. Which cut has the price?
 2. Which clarity has the avg highest price?
-3. Whch color has the highest price?
-4. Which columns has the highest corrlation?
+3. Which color has the highest price?
+4. Which columns has the highest correlation?
 5. What carats offers the best value?
 
 The data analysis for this project [Diamond Analysis](https://github.com/ReeceAlbert/Reece_Portfolio.Python/blob/main/Diamond%20Price%20Analysis%20.ipynb)
