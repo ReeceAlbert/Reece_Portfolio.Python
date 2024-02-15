@@ -33,7 +33,7 @@ The data analysis for this project [Tips Analysis](https://github.com/ReeceAlber
 
 # [Project 3: Sales Data EDA and Classification](https://reecealbert.github.io/Reece_portfolio)
 
-This was a personal project. This project was geared towards understand sales data and find insighful items it in.
+This was a personal project. This project was geared towards understand sales data and find insightful items it in.
 I tried to use some the tools I learned in my predictive modeling class and research I did online. 
 I used different machine learning to classify certain classed inside the sales data.
 
