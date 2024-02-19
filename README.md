@@ -52,3 +52,11 @@ Questions
 
 The data analysis for this project [Diamond Analysis](https://github.com/ReeceAlbert/Reece_Portfolio.Python/blob/main/Diamond%20Price%20Analysis%20.ipynb)
 
+
+
+# [Project 5: Multi-Class Prediction of Obesity Risk](https://reecealbert.github.io/Reece_portfolio)
+Used a dataset from Kaggle that focused on Obesity Predictions in certain classes. This is part of a competition in Kaggle, where I can play around with data analysis and machine learning alogrithms tools. 
+The goal of this competition was to use various factors to predict obesity risk in individuals, which is related to cardiovascular disease. Below I will show off my current analysis and the dataset. This project is still going.
+
+
+
