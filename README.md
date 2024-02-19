@@ -59,4 +59,6 @@ Used a dataset from Kaggle that focused on Obesity Predictions in certain classe
 The goal of this competition was to use various factors to predict obesity risk in individuals, which is related to cardiovascular disease. Below I will show off my current analysis and the dataset. This project is still going.
 
 
+[The data](https://github.com/ReeceAlbert/Reece_Portfolio.Python/blob/main/train.csv)
 
+[Obesity Analysis](https://github.com/ReeceAlbert/Reece_Portfolio.Python/blob/main/Multi-Class%20Prediction%20of%20Obesity%20Risk.ipynb)
