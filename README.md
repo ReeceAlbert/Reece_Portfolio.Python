@@ -65,5 +65,5 @@ The goal of this competition was to use various factors to predict obesity risk 
 
 
 
-#[Project 6: Space Titanic Classification Dataset]
+# [Project 6: Space Titanic Classification Dataset](
 Conducted Data Analysis and Machine Learning classification from a Space Titanic Dataset from Kaggle. The goal of the project to was to correctly classify which passengers were going to get transported or not.
