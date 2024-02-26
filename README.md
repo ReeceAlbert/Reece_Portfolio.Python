@@ -1,4 +1,4 @@
-# Reece_portfolio
+# Reece Albert Portfolio
 Analytics Portfolio 
 
 # [Project 1: Spotify Data Machine Learning predictions](https://reecealbert.github.io/Reece_portfolio/)
